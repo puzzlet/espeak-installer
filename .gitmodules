@@ -1,0 +1,9 @@
+[submodule "espeak"]
+	path = espeak
+	url = git://github.com/rhdunn/espeak.git
+[submodule "espeak-korean"]
+	path = espeak-korean
+	url = git://github.com/puzzlet/espeak-korean.git
+[submodule "espeak-japanese"]
+	path = espeak-japanese
+	url = git://github.com/puzzlet/espeak-japanese.git

@@ -1,0 +1,6 @@
+*.deb
+*.udeb
+build-area
+debian*
+ubuntu*
+espeak_*
